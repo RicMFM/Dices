@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Dices</string>
+    <string name="header">Dices Simulator</string>
+    <string name="imageHint">image with the generated dice\'s face</string>
+    <string name="bt_txt">Roll</string>
+
+    <string name="n1">um</string>
+    <string name="n2">dois</string>
+    <string name="n3">três</string>
+    <string name="n4">quatro</string>
+    <string name="n5">cinco</string>
+    <string name="n6">seis</string>
+    <string name="n"></string>
 </resources>
